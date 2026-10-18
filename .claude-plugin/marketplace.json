@@ -1,0 +1,6 @@
+{
+  "name": "reeve",
+  "owner": { "name": "DinoSourcesRex" },
+  "description": "Reeve: a usage line and details panel for Claude Code",
+  "plugins": [{ "name": "reeve", "source": "./" }]
+}

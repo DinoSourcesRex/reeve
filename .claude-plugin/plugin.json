@@ -1,0 +1,8 @@
+{
+  "name": "reeve",
+  "version": "0.1.0",
+  "author": { "name": "DinoSourcesRex" },
+  "license": "MIT",
+  "description": "One usage line under the prompt (model, serfs, context, 5h and weekly limits, git) and a details side panel",
+  "types": "./types/index.d.ts"
+}
